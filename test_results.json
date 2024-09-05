@@ -1,0 +1,20 @@
+{
+  "beforePanning": {
+    "scale": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "xMin": 0,
+    "xMax": 5,
+    "yMin": 7,
+    "yMax": 20
+  },
+  "afterPanning": {
+    "scale": 1,
+    "offsetX": 0.2,
+    "offsetY": -0.1,
+    "xMin": 0,
+    "xMax": 5,
+    "yMin": 7,
+    "yMax": 20
+  }
+}
